@@ -1,0 +1,311 @@
+.google{
+	text-align: center;
+	color:white;
+	 font-size: 250%;
+	font-family: product geometric sans-serif;
+	background-color: transparent;
+}
+.google:hover{
+	text-decoration: none;
+	color: gray;
+	cursor: pointer;
+}
+body{
+	 background-color: #252121 ;
+}
+.result:hover{
+color: darkgray;
+cursor: pointer;
+}
+
+ h2{
+ 	color:white ;
+ 	padding:10px ;
+ 	 font-family: monospace;
+ 	background-color:#534949 ;
+ 	margin: 23px ;
+ 	border-radius: 100px;
+
+ }
+ h3{
+ 	color: white;
+ 	font-size: 115%;
+ 	margin: 20px;
+
+ }
+ .all{
+ 	text-decoration: underline;
+ }
+  h3:hover{
+  	color:gray;
+  	cursor: pointer;
+  	background-color: transparent;
+  
+  }
+   .videos{
+   	color: #B6B3B3;
+   }
+   .news{
+   	color: #B6B3B3;
+   }
+   .images{
+   	color:#B6B3B3 ;
+   }
+   .shopping{
+   	color: #B6B3B3;
+   }
+   h3,.videos{
+   	display: inline-block;
+   }
+   .videos,.news,.images,.shopping{
+   	display: inline-block;
+   }
+.result{
+	background-color: #111010;
+	color: gray;
+	padding: 20px;
+	margin: 20px;
+}
+.name{
+	font-size: 280%;
+	font-family: verdana;
+	color: white;
+	margin: 20px;
+
+}
+.subname{
+	font-size:130% ;
+	font-family: garamomd;
+	color: #DED3D3;
+	margin: 20px;
+
+}
+.view{
+	color: #FEBDD0;
+	background-color:#B80049 ;
+	border-radius: 100px;
+	padding: 7px;
+	margin: 10px;
+	border-color:#B80049  ;
+	width: 90px;
+}
+.songs{
+	color: #FEBDD0;
+	background-color:#FF00AE ;
+	border-radius: 100px;
+	padding: 7px;
+	margin: 10px;
+	border-color:#FF057E;
+	width: 90px;
+}
+.listen{
+	color: #FEBDD0;
+	background-color:#B80049 ;
+	border-radius: 100px;
+	padding: 7px;
+	margin: 10px;
+	border-color:#B80049  ;
+	width: 90px;
+}
+.albums{
+	color: #FEBDD0;
+	background-color:#B80049 ;
+	border-radius: 100px;
+	padding: 7px;
+	margin: 10px;
+	border-color:#B80049  ;
+	width: 90px;
+}
+.view:hover{
+	background-color:#FF00AE;
+	cursor: pointer;
+}
+.songs:hover{
+	background-color:#FF00AE;
+	cursor: pointer;
+}
+
+
+.listen:hover{
+	background-color:#FF00AE;
+	cursor: pointer;
+}
+
+
+.albums:hover{
+	background-color:#FF00AE;
+	cursor: pointer;
+}
+
+
+.s1{
+	color: white;
+	font-family: sans-serif;
+	 text-decoration: #252121;
+
+}
+.s1link{
+	color:#B3A4AE;
+	text-decoration: #252121;
+}
+.s1:hover{
+  	color:gray;
+  	cursor: pointer;
+  	background-color: transparent;
+  
+  }
+  .s1link:hover{
+  	color: #B3A4AE;
+  	cursor: pointer;
+  	background-color: transparent;
+  
+  }
+
+
+  .s2{
+	color: white;
+	font-family: sans-serif;
+	text-decoration: none;
+}
+.s2link{
+	color:#B3A4AE;
+	}
+
+  .s2:hover{
+  	color:gray;
+  	cursor: pointer;
+  	background-color: transparent;
+  
+  }
+  .s2link:hover{
+  	color: #B3A4AE;
+  	cursor: pointer;
+  	background-color: transparent;
+  
+  }
+
+
+
+ .s3{
+	color: white;
+	font-family: sans-serif;
+	text-decoration: #252121;
+}
+.s3link{
+	color:#B3A4AE;
+	}
+
+  .s3:hover{
+  	color:gray;
+  	cursor: pointer;
+  	background-color: transparent;
+  
+  }
+  .s3link:hover{
+  	color: #B3A4AE;
+  	cursor: pointer;
+  	background-color: transparent;
+  
+  }
+  
+
+  .s4{
+	color: white;
+	font-family: sans-serif;
+	text-decoration: none;
+}
+.s4link{
+	color:#B3A4AE;
+	
+}
+.s4:hover{
+  	color:gray;
+  	cursor: pointer;
+  	background-color: transparent;
+  
+  }
+  .s4link:hover{
+  	color: #B3A4AE;
+  	cursor: pointer;
+  	background-color: transparent;
+  
+  }
+
+
+    .s5{
+	color: white;
+	font-family: sans-serif;
+	text-decoration: none;
+}
+.s5link{
+	color:#B3A4AE;
+	
+}
+.s5:hover{
+  	color:gray;
+  	cursor: pointer;
+  	background-color: transparent;
+  
+  }
+  .s5link:hover{
+  	color: #B3A4AE;
+  	cursor: pointer;
+  	background-color: transparent;
+  
+  }
+
+
+    .s6{
+	color: white;
+	font-family: sans-serif;
+	text-decoration: none;
+}
+.s6link{
+	color:#B3A4AE;
+	
+}
+.s6:hover{
+  	color:gray;
+  	cursor: pointer;
+  	background-color: transparent;
+  
+  }
+  .s6link:hover{
+  	color: #B3A4AE;
+  	cursor: pointer;
+  	background-color: transparent;
+  
+  }
+   
+
+
+    .s7{
+	color: white;
+	font-family: sans-serif;
+	text-decoration: none;
+}
+.s7link{
+	color:#B3A4AE;
+	
+}
+.s7:hover{
+  	color:gray;
+  	cursor: pointer;
+  	background-color: transparent;
+  
+  }
+  .s7link:hover{
+  	color: #B3A4AE;
+  	cursor: pointer;
+  	background-color: transparent;
+  
+  }
+   
+  .end{
+background-color: #6A6969 ;
+	color:white;
+	padding: 10px;
+	margin: 15px;
+	border-radius: 100px;
+  }
+ 
